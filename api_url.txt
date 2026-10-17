@@ -1,0 +1,1 @@
+https://rest.coincap.io/v3/assets?apiKey=1ae2a68fac8ebca26b3fe44b87e784fa38060e08ca5f293bd5f897983dad3f3b
